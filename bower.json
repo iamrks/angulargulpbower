@@ -1,0 +1,23 @@
+{
+  "name": "Learn Gulp and Bower",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Ravi"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7"
+  }
+}
