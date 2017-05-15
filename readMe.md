@@ -4,7 +4,7 @@ This is a demo application to illustrating various features for the front-end de
 
 ## Boilerplate
 
-If you want to setup front-end developement from scracth, You can use this.
+If you want to setup front-end developement from scratch, You can use this.
 
 ## Requirements
 
