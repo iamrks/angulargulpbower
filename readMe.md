@@ -1,4 +1,4 @@
-# Nodejs Express Angular.js Gulp.js & Bower setup
+# Nodejs, Expressjs, Angular.js, Gulp.js & Bower setup
 
 This is a demo application to illustrating various features for the front-end developement. It describe how to setup gulp, bower, angularjs and expressjs to server the static content.
 
